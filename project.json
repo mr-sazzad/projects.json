@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "computer manufacture",
+    "img1": "https://i.ibb.co/v3Q0jqD/2022-06-10.png",
+    "img2": "https://i.ibb.co/F4KvSJj/2022-06-10-1.png",
+    "img3": "https://i.ibb.co/wQBwNJJ/2022-06-10-3.png",
+    "info1": "use react router",
+    "info2": "use firebase",
+    "info3": "implement firebase-authentication",
+    "info4": "use stripe for payment",
+    "info5": "implement admin dashboard",
+    "live": "https://computer-manufacture.web.app/parts",
+    "client": "https://github.com/programming-hero-web-course1/manufacturer-website-client-side-mr-sazzad",
+    "server": "https://github.com/programming-hero-web-course1/manufacturer-website-server-side-mr-sazzad"
+  },
+  {
+    "id": 2,
+    "name": "laptop warehouse",
+    "img1": "https://i.ibb.co/ssBywQ9/2022-06-10-8.png",
+    "img2": "https://i.ibb.co/QYBKqyP/2022-06-10-9.png",
+    "img3": "https://i.ibb.co/hRhQvjZ/2022-06-10-10.png",
+    "info1": "use firebase",
+    "info2": "use react router",
+    "info3": "implement firebase-authentication",
+    "info4": "implement manage parts",
+    "info5": "implement add parts",
+    "live": "https://laptop-24af0.web.app/",
+    "client": "https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-mr-sazzad",
+    "server": "https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-mr-sazzad"
+  },
+  {
+    "id": 3,
+    "name": "photography",
+    "img1": "https://i.ibb.co/drwKC8q/2022-06-10-4.png",
+    "img2": "https://i.ibb.co/YbQPM5J/2022-06-10-11.png",
+    "img3": "https://i.ibb.co/r2txyVZ/2022-06-10-6.png",
+    "info1": "use react router",
+    "info2": "use service part",
+    "info3": "implement login part",
+    "live": "https://photography-d3c58.web.app/",
+    "client": "https://github.com/programming-hero-web-course-4/independent-service-provider-mr-sazzad"
+  }
+]
